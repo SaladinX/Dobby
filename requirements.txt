@@ -1,0 +1,4 @@
+re==2.2.1
+urllib3==1.26.7
+datetime==4.3
+tqdm==4.62.3
